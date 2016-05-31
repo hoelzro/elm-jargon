@@ -13,6 +13,8 @@ data Maybe a = Just a | Nothing
 
 `Just` and `Nothing` are *constructors* for the ''Maybe'' type.
 
+Sometimes referred to as *tags*.
+
 # Tag
 
 See also [Constructor](#constructor).
