@@ -8,7 +8,7 @@ Used to indicate one of the "branches" of a data type.  For example, the
 `Maybe` type looks like this:
 
 ```elm
-data Maybe a = Just a | Nothing
+type Maybe a = Just a | Nothing
 ```
 
 `Just` and `Nothing` are *constructors* for the ''Maybe'' type.
