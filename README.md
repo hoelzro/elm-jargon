@@ -11,7 +11,7 @@ Used to indicate one of the "branches" of a data type.  For example, the
 type Maybe a = Just a | Nothing
 ```
 
-`Just` and `Nothing` are *constructors* for the ''Maybe'' type.
+`Just` and `Nothing` are *constructors* for the `Maybe` type.
 
 Sometimes referred to as *tags*.
 
